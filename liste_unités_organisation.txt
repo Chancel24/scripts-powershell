@@ -1,0 +1,12 @@
+﻿CSU>Users>Admins
+CSU>Users>Opérateurs
+SSU>Computers>Machine Maintenance
+SSU>Computers>Postes Opérateurs
+SSU>Computers>Serveurs Linux
+SSU>Computers>Serveurs VMS
+SSU>Computers>Stations Affichages
+SSU>Users>Admins
+SSU>Users>BE
+SSU>Users>Conducteurs de Travaux
+SSU>Users>Techniciens
+POLICE NATIONALE>Opérateurs

@@ -1,0 +1,7 @@
+PN	Ope	pn.ope	BYE$94%Adm	POLICE NATIONALE > Opérateurs	Opérateurs_PN_Security_Group
+CSU	Adm	csu.adm	BYE$94%Adm	CSU > Users > Admins	Admins_CSU_Security_Group
+CSU	Ope	csu.ope	BYE$94%Adm	CSU > Users > Opérateurs	Opérateurs_CSU_Security_Group
+SSU	Adm	ssu.adm	BYE$94%Adm	SSU > Users > Admins	Admins_SSU_Security_Group
+SSU	BE	ssu.be	BYE$94%Adm	SSU > Users > BE	BE_SSU_Security_Group
+SSU	CT	ssu.ct	BYE$94%Adm	SSU > Users > Conducteurs de Travaux	CT_SSU_Security_Group
+SSU	Tech	ssu.tech	BYE$94%Adm	SSU > Users > Techniciens	Tech_SSU_Security_Group
